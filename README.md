@@ -44,5 +44,3 @@ This project is built to practice real-world full-stack concepts such as authent
 
 ---
 
-## 📂 Project Structure
-
